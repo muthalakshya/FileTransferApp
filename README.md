@@ -1,6 +1,4 @@
-Here’s a complete `README.md` file for your **FileTransferApp**, written based on the screenshots you shared:
 
----
 
 # FILE TRANSFER APP
 
