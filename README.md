@@ -106,6 +106,3 @@ npm test
 
 **Happy sharing!** ✨📁
 
----
-
-Let me know if you’d like me to tweak this `README.md` (e.g., add contribution guidelines, license, or deployment instructions)!
