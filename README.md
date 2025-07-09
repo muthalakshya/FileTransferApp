@@ -2,7 +2,7 @@ Here’s a complete `README.md` file for your **FileTransferApp**, written based
 
 ---
 
-# FILETRANSFERAPP
+# FILE TRANSFER APP
 
 **Seamless Sharing, Limitless Possibilities**
 
